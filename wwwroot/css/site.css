@@ -1,0 +1,56 @@
+
+
+
+
+body {
+    background-image: url('../lib/images/PatternGoldandBlack.jpg');
+    background-position: center;
+    background-size: auto;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-bottom: 60px;
+    font-palette: light;
+}
+.carousel-item {
+    height: 35rem;
+    max-width: 85vw;
+    background-size: contain;
+    background-position: center center;
+    background-repeat: repeat;
+}
+
+.carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+}
+.bg-prim {
+    background-color: black;
+}
+.welcome-carousel-image1 {
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
+    background-image: url('../lib/images/carouselTheater.jpg');
+}
+
+.welcome-carousel-image2 {
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
+    background-image: url('../lib/images/carouselebSeries.jpg');
+}
+
+.welcome-carousel-image3 {
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
+    background-image: url('../lib/images/carouselMovies.jpg');
+}
+
+.welcome-carousel-image4 {
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
+    background-image: url('../lib/images/carouselTelevisionDrama.jpg');
+}
+
+.welcome-carousel-image5 {
+    box-shadow: inset 0 0 0 10vw rgba(0,0,0,0.3);
+    background-image: url('../lib/images/carousel1.jpg');
+}
+.text-cl {
+    text-decoration-color: #ffad00;
+}
+

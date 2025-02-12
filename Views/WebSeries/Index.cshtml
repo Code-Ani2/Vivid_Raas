@@ -1,0 +1,79 @@
+﻿@model IEnumerable<VividRasV2.Models.WebSeries>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<head>
+    <style>
+        .btn-lnk {
+            background-color: darkgoldenrod;
+            width: 250px;
+        }
+        .btn-details {
+            background-color: darkgoldenrod;
+            color: #FFF; /* Text color */
+            width: 250px;
+        }
+
+        body {
+            background-image: url('../lib/images/page5.jpg');
+            background-position: center;
+            background-size: auto;
+        }
+
+        .btn-create {
+            background-color: darkgoldenrod;
+            color: #FFF; /* Text color */
+            width: 60px; /* Adjust width for the create button */
+        }
+
+        .card-columns {
+            column-count: 3; /* Adjust the number of columns as needed */
+            column-gap: 1rem; /* Adjust the gap between cards */
+        }
+
+        .card {
+            scroll-snap-align: start; /* Ensure each card starts from the beginning of the viewport */
+            flex: 0 0 auto;
+            margin-right: 1rem; /* Adjust the gap between cards */
+            transition: transform 0.3s ease; /* Smooth transition for sliding effect */
+            cursor: pointer; /* Show pointer cursor on hover */
+            width: 15%;
+            height: 8%;
+        }
+
+            .card:hover {
+                transform: translateX(-10px); /* Slide the card to the left on hover */
+            }
+    </style>
+</head>
+
+<h1 class="text-light">WEB SERIES</h1>
+
+<a class="btn btn-create" asp-action="Create">+</a>
+<table class="table text-light">
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                    <div class="card">
+                        <img class="card-img-top" src="~/lib/images/@(item.WebSeriesId).jpg">
+                        <div class="card-body">
+                            <h5 class="card-title text-dark">@item.WebSeriesName</h5>
+                            <p class="card-text text-dark">@item.ReleaseYear</p>
+                        </div>
+                        
+                    </div>
+            </td>
+            <td>
+                    <a class="btn btn-details" asp-action="Details" asp-route-id="@item.WebSeriesId">View details</a>
+
+            </td>
+
+                <td>
+                    <a class="btn btn-lnk text-light" asp-controller="Reviews" asp-action="Create" asp-route-id="@item.WebSeriesId"> Review</a>
+                </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,58 @@
+﻿@model IEnumerable<VividRasV2.Models.Review>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<head>
+    <style>
+        body {
+            background-image: url('../lib/images/page5.jpg');
+            background-position: center;
+            background-size: auto;
+        }
+    </style>
+</head>
+
+<h4 class="text-light">Reviews</h4>
+
+<table class="table text-light">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model=> model.ReviewId)
+            </th>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.User)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rating)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Comment)
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReviewId )
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rating)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Comment)
+            </td>
+            
+            
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,2481 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\VividRasV2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VividRasV2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3001-details.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3001-details.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3001-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3001-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3001.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3001.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3002-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3002-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3002.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3002.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3003-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3003-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3003.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3003.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3004-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3004-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3004.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3004.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3005.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3005.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3006.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3006.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3007.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3007.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3008-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3008-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3008.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3008.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3009-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3009-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3009.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3009.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3010-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3010-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3010.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3010.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3011-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3011-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3011.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3011.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3012-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3012-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3012.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3012.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3013-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3013-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3013.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3013.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3014-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3014-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3014.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3014.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3015-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3015-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3015.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3015.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3016-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3016-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3016.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3016.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3017-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3017-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3017.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3017.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3018-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3018-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3018.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3018.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3019-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3019-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3019.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3019.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3020-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3020-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3020.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3020.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3021-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3021-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3021.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3021.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3022-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3022-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3022.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3022.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3023-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3023-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3023.Jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3023.Jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3024-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3024-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3024.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3024.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3025-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3025-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3025.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3025.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3026-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3026-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3026.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3026.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3027-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3027-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3027.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3027.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3028-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3028-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3028.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3028.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3029-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3029-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3029.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3029.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3030-details (2).png",
+      "PackagePath": "staticwebassets\\lib\\images\\3030-details (2).png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3030.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3030.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3031-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3031-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3031.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3031.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3032-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3032-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3032.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3032.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3033-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3033-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3033.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3033.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3034-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3034-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3034.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3034.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3035-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3035-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3035.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3035.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3036-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3036-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3036.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3036.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3037-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3037-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3037.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3037.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3041-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3041-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3041.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3041.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3043-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3043-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3043.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3043.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3044-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3044-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3044.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3044.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3045-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3045-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3045.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3045.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3046-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3046-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3046.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3046.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3047-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3047-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3047.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3047.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3048-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3048-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3048.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3048.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3049-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3049-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3049.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3049.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3050-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3050-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3050.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3050.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3051-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3051-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3051.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3051.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3052-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3052-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3052.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3052.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3053-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3053-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3053.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3053.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3054-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3054-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3054.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3054.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3055-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3055-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3055.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3055.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3056-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3056-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3056.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3056.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3057-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3057-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3057.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3057.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3058-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3058-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3058.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3058.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3059-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3059-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3059.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3059.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3060-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3060-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3060.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3060.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3061-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3061-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3061.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3061.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3062-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3062-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3062.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3062.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3063-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3063-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3063.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3063.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3064-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3064-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3064.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3064.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3065-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3065-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3065.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3065.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3066-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3066-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3067-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3067-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3067.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3067.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3068-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3068-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3068.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3068.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3069-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3069-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3069.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3069.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3070-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3070-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3070.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3070.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3071-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3071-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3071.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3071.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3072-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3072-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3072.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3072.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3073-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3073-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3073.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3073.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3074-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3074-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3074.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3074.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3075-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3075-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3075.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3075.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3076-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3076-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3076.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3076.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3077-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3077-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3077.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3077.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3078-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3078-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3078.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3078.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3079-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3079-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3079.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3079.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3080-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3080-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3080.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3080.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3081-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3081-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3081.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3081.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3082-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3082-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3082.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3082.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3083-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3083-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3083.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3083.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3084-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3084-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3084.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3084.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3085-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3085-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3085.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3085.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3086-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3086-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3086.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3086.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3087-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3087-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3087.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3087.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3088-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3088-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3088.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3088.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3089-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3089-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3089.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3089.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3090-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3090-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3090.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3090.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3091-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3091-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3092-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3092-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3092.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3092.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3093.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3093.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3094-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3094-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3094.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3094.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3095-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3095-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3095.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3095.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3096-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3096-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3096.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3096.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3097-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3097-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3097.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3097.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3098-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3098-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3098.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3098.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3099-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3099-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3099.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3099.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3100-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3100-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3100.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3100.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3101-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3101-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3101.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3101.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3102-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3102-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3102.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3102.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3103-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3103-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3103.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3103.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3104-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3104-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3104.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3104.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3105-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3105-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3106-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3106-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3106.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3106.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3107-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3107-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3107.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3107.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3108-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3108-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3108.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3108.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3109-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3109-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3109.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3109.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3110-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3110-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3110.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3110.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3111-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3111-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3111.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3111.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3112.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3112.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3113-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3113-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3113.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3113.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3114-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3114-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3114.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3114.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3115-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3115-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3115.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3115.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3116-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3116-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3116.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3116.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3117-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3117-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3117.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3117.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3118-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3118-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3118.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3118.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3119-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\3119-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3119.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3119.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\3120.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\3120.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4001-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4001-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4001.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4001.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4002-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4002-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4002.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4002.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4003-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4003-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4003.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4003.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4004-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4004-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4004.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4004.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4005-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4005-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4005.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4005.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4006-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4006-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4006.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4006.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4007-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4007-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4007.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4007.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4008-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4008-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4008.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4008.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4009-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4009-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4009.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4009.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4010-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4010-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4010.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4010.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4011-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4011-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4011.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4011.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4012-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4012-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4012.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4012.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4013-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4013-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4013.webp",
+      "PackagePath": "staticwebassets\\lib\\images\\4013.webp"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4014-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4014-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4014.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4014.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4015-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4015-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4016-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4016-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4018-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4018-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4018.jpeg",
+      "PackagePath": "staticwebassets\\lib\\images\\4018.jpeg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4019-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4019-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4019.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4019.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4020-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4020-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4020.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4020.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4021-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4021-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4021.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4021.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4022-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4022-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4022.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4022.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4023-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4023-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4023.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4023.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4024.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4024.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4025-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4025-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4025.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4025.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4026-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4026-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4026.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4026.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4027-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4027-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4027.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4027.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4028-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4028-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4028.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4028.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4029-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4029-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4029.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4029.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4031-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4031-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4031.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4031.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4032-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4032-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4032.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4032.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4033-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4033-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4033.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4033.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4034-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4034-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4034.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4034.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4035-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4035-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4035.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4035.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4036-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4036-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4036.avif",
+      "PackagePath": "staticwebassets\\lib\\images\\4036.avif"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4037-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4037-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4037.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4037.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4038-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4038-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4038.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4038.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4039-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4039-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4039.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4039.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4040-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4040-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4040.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4040.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4041-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4041-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4041.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4041.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4042-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4042-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4042.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4042.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4043-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4043-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4043.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4043.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4044-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4044-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4044.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4044.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4045-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4045-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4046-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4046-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4046.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4046.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4047-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4047-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4047.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4047.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4050-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4050-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4050.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4050.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4051-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4051-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4051.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4051.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4052-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4052-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4052.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4052.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4053-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4053-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4053.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4053.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4054-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4054-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4054.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4054.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4055-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4055-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4055.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4055.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4056-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4056-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4056.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4056.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4057-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4057-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4057.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4057.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4058-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4058-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4058.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4058.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4059-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4059-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4059.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4059.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4060-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4060-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4060.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4060.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4061-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4061-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4061.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4061.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4062-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4062-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4062.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4062.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4063-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4063-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4063.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4063.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4065-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4065-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4065.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4065.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4066-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4066-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4066.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4066.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4067.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4067.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4068-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4068-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4068.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4068.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4069-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4069-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4069.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4069.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4070-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4070-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4070.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4070.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4071-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4071-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4071.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4071.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4072-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4072-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4072.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4072.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4073-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4073-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4073.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4073.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4074-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4074-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4074.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4074.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4075-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4075-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4075.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4075.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4076-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4076-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4076.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4076.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4077-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4077-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4077.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4077.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4078-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4078-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4078.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4078.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4079-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4079-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4079.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4079.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4080-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4080-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4080.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4080.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4081-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4081-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4081.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4081.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4082-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4082-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4082.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4082.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4083-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4083-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4083.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4083.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4084-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4084-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4084.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4084.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4086-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4086-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4086.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4086.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4086.webp",
+      "PackagePath": "staticwebassets\\lib\\images\\4086.webp"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4087-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4087-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4087.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4087.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4089-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4089-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4089.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4089.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4090.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4090.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4091-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4091-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4091.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4091.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4092-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4092-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4092.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4092.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4093-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4093-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4093.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4093.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4094-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4094-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4094.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4094.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4095-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4095-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4095.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4095.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4096-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4096-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4096.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4096.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4097-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4097-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4097.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4097.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4098-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4098-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4098.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4098.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4099-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4099-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4100-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4100-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4100.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4100.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4101-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4101-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4101.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4101.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4102-details.png",
+      "PackagePath": "staticwebassets\\lib\\images\\4102-details.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4102.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4102.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\4105.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\4105.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5001.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5001.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5002.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5002.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5003.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5003.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5004.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5004.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5005.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5005.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5006.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5006.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5007.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5007.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5009.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5009.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5010.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5010.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5011.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5011.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5013.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5013.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5015.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5015.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5017.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5017.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5018.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5018.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5019.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5019.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5020.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5020.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5021.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5021.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5022.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5022.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5023.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5023.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5024.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5024.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5025.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5025.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5026.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5026.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5027.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5027.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5028.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5028.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5029.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5029.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5030.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5030.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5031.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5031.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5032.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5032.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5033.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5033.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5034.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5034.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5035.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5035.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5041.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5041.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5043.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5043.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5044.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5044.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5045.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5045.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5046.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5046.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5047.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5047.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5048.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5048.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5049.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5049.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5050.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5050.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5051.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5051.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5052.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5052.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5053.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5053.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5054.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5054.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5055.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5055.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5056.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5056.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5057.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5057.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5058.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5058.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5059.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5059.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5061.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5061.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5062.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5062.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5063.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5063.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5064.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5064.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5065.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5065.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5066.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5066.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5067.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5067.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5069.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5069.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5070.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5070.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5071.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5071.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5072.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5072.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5073.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5073.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5074.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5074.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5075.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5075.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5076.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5076.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5077.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5077.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5078.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5078.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5079.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5079.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5080.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5080.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5081.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5081.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5083.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5083.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5084.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5084.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5085.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5085.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5087.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5087.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5088.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5088.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5089.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5089.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5090.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5090.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5091.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5091.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5092.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5092.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5093.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5093.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5094.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5094.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5096.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5096.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5097.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5097.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5098.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5098.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5099.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5099.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5100.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5100.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5101.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5101.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5102.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5102.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5103.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5103.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5104.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5104.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5105.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5105.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5106.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5106.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5107.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5107.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5108.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5108.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5109.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5109.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5110.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5110.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5111.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5111.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5113 (2).jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5113 (2).jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5113.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5113.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5114.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5114.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5115.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5115.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5116.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5116.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5117.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5117.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5118.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5118.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5119.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5119.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5120.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5120.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5121.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5121.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5122.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5122.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5123.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5123.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5124.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5124.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5125.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5125.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5126.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5126.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5127.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5127.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5128.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5128.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5133.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5133.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5134.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5134.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5136.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5136.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\5137.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\5137.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\6082.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\6082.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\DulhaGangaParKe1986.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\DulhaGangaParKe1986.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\GangaJaisanBhaujiHamar1986.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\GangaJaisanBhaujiHamar1986.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\HamarBhauji1983.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\HamarBhauji1983.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\NadiyaKePaar1982.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\NadiyaKePaar1982.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\Parivaar2008.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\Parivaar2008.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\PatternGoldandBlack.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\PatternGoldandBlack.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\PatternGoldandBlack2.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\PatternGoldandBlack2.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\PatternGoldandBlack3.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\PatternGoldandBlack3.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\PatternGoldandBlack4.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\PatternGoldandBlack4.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\PatternPinkNSilver.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\PatternPinkNSilver.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\PatternPinkNSilver2.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\PatternPinkNSilver2.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\PiyaKeGaon.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\PiyaKeGaon.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\PiyaRakhiahSenurwaKeLaaj1987.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\PiyaRakhiahSenurwaKeLaaj1987.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\carousel1.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\carousel1.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\carouselMovies.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\carouselMovies.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\carouselTelevisionDrama.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\carouselTelevisionDrama.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\carouselTheater.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\carouselTheater.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\carouselebSeries.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\carouselebSeries.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\detailspage1.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\detailspage1.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\page2.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\page2.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\page4.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\page4.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\page5.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\page5.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\page6.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\page6.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\pattern1.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\pattern1.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\patternPurpleGold3.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\patternPurpleGold3.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\search.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\search.jpg"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\images\\v.png",
+      "PackagePath": "staticwebassets\\lib\\images\\v.png"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\MyProduct\\VividRasV2\\VividRasV2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.VividRasV2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.VividRasV2.props",
+      "PackagePath": "build\\VividRasV2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.VividRasV2.props",
+      "PackagePath": "buildMultiTargeting\\VividRasV2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.VividRasV2.props",
+      "PackagePath": "buildTransitive\\VividRasV2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

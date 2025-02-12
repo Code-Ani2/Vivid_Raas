@@ -1,0 +1,67 @@
+﻿@model VividRasV2.Models.WebSeries
+
+@{
+    ViewData["Title"] = "WebSeries - Details";
+}
+<head>
+    <style>
+        .btn-lnk {
+            background-color: darkgoldenrod;
+            width: 180px;
+        }
+
+        img {
+            position: center;
+        }
+    </style>
+</head>
+<img src="~/lib/images/v.png" width="80px" height="80px" />
+<h1 class="text-light">Web Series Details</h1>
+
+<div>
+    <br />
+    <br />
+
+    <div class="container-fluid">
+        <div class="row text-light fw-bolder">
+            <div class="col">
+                @Html.DisplayNameFor(model => model.WebSeriesName)
+            </div>
+            <div class="col">
+                @Html.DisplayFor(model => model.WebSeriesName)
+            </div>
+        </div>
+        <br />
+        <br />
+        <div class="row text-light fw-bolder">
+            <div class="col">
+                @Html.DisplayNameFor(model => model.NoOfSeasons)
+            </div>
+            <div class="col">
+                @Html.DisplayFor(model => model.NoOfSeasons)
+            </div>
+        </div>
+        <br />
+        <br />
+        <div class="row text-light fw-bolder">
+            <div class="col">
+                @Html.DisplayNameFor(model => model.NoOfEpisodes)
+            </div>
+            <div class="col">
+                @Html.DisplayFor(model => model.NoOfEpisodes)
+            </div>
+        </div>
+        <br />
+        <br />
+
+        <div class="row">
+            <div class="card">
+                <img class="card-img" src="~/lib/images/@(Model.WebSeriesId)-details.png" width="300px" height="500px" />
+            </div>
+        </div>
+    </div>
+
+</div>
+<div>
+    <a class = "btn btn-lnk" asp-action="Index">Back to List</a>
+</div>
